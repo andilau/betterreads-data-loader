@@ -147,4 +147,4 @@ Temporary Items
 .apdisk
 
 # Secure bundle
-!/src/main/resources/secure-connect-betterreads.zip
+/src/main/resources/secure-connect-betterreads.zip
