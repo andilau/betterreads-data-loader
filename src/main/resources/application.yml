@@ -4,7 +4,7 @@ spring:
       keyspace-name: ${DB_KEYSPACE}
       username: ${USERNAME}
       password: ${PASSWORD}
-      schema-action: create-if-not-exists
+      schema-action: recreate # create-if-not-exists
       request:
         timeout: 10s
       connections:
