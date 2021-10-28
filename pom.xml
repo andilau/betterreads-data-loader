@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>de.herrlau</groupId>
-    <artifactId>better-reads-data-loader</artifactId>
+    <artifactId>betterreads-data-loader</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>better-reads-data-loader</name>
+    <name>better reads data loader</name>
     <description>BetterReads Data Loader</description>
     <properties>
         <java.version>11</java.version>
